@@ -1,0 +1,3 @@
+Start-Process powershell.exe -Verb RunAs -ArgumentList "-ExecutionPolicy Bypass -File D:\IT Automation Web Portal\scripts\cleanmgr.ps1"
+Start-Process powershell.exe -Verb RunAs -ArgumentList "-ExecutionPolicy Bypass -File D:\IT Automation Web Portal\scripts\Fast_system.ps1"
+Start-Process powershell.exe -Verb RunAs -ArgumentList  "-ExecutionPolicy Bypass -File D:\IT Automation Web Portal\scripts\Fast_system1.bat"
